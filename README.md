@@ -1,2 +1,4 @@
 # best-repo-ever
-Trailhead Git と Githubの基本
+
+Trailhead Git と Github の基本
+変更してコミットします。
